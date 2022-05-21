@@ -1,0 +1,9 @@
+LIBRARY LabAssembly
+EXPORTS addInt
+EXPORTS subInt
+EXPORTS mulInt
+EXPORTS divInt
+EXPORTS addFloat
+EXPORTS subFloat
+EXPORTS mulFloat
+EXPORTS divFloat
